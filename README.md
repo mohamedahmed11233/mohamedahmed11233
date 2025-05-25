@@ -1,10 +1,8 @@
 
 
-# 👨‍💻 About Me
 
-- 🔧 I'm a .NET Backend Developer with a focus on building clean and scalable APIs using ASP.NET Core and C#
-- 🌱 Currently expanding my skills in front-end development to become a Full-Stack Developer
-- 🚀 Passionate about writing efficient, maintainable code and working on real-world projects
+Mohamed Ahmed, a Junior Software Engineer, seeks a challenging career with a progressive organization where he can leverage his web development skills using .NET technologies.
+ He is eager to deliver high-quality work and make a significant contribution.
 
 ---
 # 👋 Contact Me
